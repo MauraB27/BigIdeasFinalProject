@@ -10,7 +10,8 @@ Liam Bayne - leb262@pitt.edu
 
 Data Sets used in this Project:
 - Safety:
-- Health:
+- Health: This data set describes various metrics of the trees around the city of Pittsburgh. The trees described are parts of different neighborhoods around the city and the set provides different benefits the trees provide in terms of oxygen, CO2, and their overall benefits and cost. The set also goes on to describe the different types of trees around the neighborhoods and the air quality that the trees have an influence on.
+    Link: https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da
 - Education:
 - Restaurants:
 
