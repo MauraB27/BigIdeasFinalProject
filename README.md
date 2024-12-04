@@ -19,4 +19,4 @@ Data Sets used in this Project:
     Link: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/1a1329e2-418c-4bd3-af2c-cc334e7559af
 
 *Overview of Repository*
-This Repository contains the data sets that help us to prove that [insert best neighborhood here] is the best neighborhood in Pittsburgh Pennsylvania based on various metrics.
+This Repository contains the data sets that help us to prove that Shadyside is the best neighborhood in Pittsburgh Pennsylvania based on various metrics.
