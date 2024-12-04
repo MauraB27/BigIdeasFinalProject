@@ -15,7 +15,6 @@ Data Sets used in this Project:
     Link: https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da
 - Education: This dataset focuses on school enrollment data in Pittsburgh as captured by the 2015 American Community Survey (ACS). It details the enrollment status and grade levels of students, covering public and private institutions, including homeschoolers. The data provides insights into educational demographics across neighborhoods, highlighting levels from preschool through graduate school, and enables analysis of socioeconomic conditions.  Link: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment
 
-Link: Pittsburgh American Community Survey 2015
 - Restaurants:
 
 *Overview of Repository*
